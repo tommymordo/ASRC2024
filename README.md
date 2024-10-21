@@ -30,7 +30,7 @@ The full list of selected queries is provided in "queries.txt".
 
 ## Relevance Judgments
 
-Relevance was assessed by five annotators on Cloudresearch’s Connect platform, based on the topic title and backstory. 
+Relevance was assessed by five annotators on Cloudresearch’s Connect platform, based on the topic title and the description. 
 Documents were rated relevant based on their alignment with the stated information need. 
 A document’s relevance grade is the count of judges deeming it relevant.
 
