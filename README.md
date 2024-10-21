@@ -1,6 +1,6 @@
 # ASRC24
 
-Adversarial Search Collection 2024 for "XX" paper.
+Adversarial Search Ranking competition Collection 2024 for "XX" paper.
 
 ## Dataset Description
 
